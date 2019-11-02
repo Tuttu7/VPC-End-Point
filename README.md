@@ -1,4 +1,4 @@
-### Steps to use VPC endpoint to access your S3 bucket over private network without requirng Internet access.
+### Creating an VPC endpoint to access your S3 bucket over private network without requirng Internet access.
 
 ### - Basic set up :
 
